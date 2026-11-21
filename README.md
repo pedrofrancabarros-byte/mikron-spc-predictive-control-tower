@@ -33,11 +33,11 @@ Designed using **Shopfloor UI/UX** principles (5-second readability rule):
 
 | Spindle 1 — Optimal (`0_OPTIMAL`) | Spindle 2 — Tool Wear (`3_CRITICAL_SCRAP`) |
 | :---: | :---: |
-| ![Spindle 1 Optimal](images/01_spindle1_optimal.png) | ![Spindle 2 Tool Wear](images/02_spindle2_toolwear.png) |
+| ![Spindle 1 Optimal](01_spindle1_optimal.png) | ![Spindle 2 Tool Wear](02_spindle2_toolwear.png) |
 
 | Spindle 3 — Spindle Chatter (`2_PREDICTIVE_ALARM`) |
 | :---: |
-| ![Spindle 3 Chatter](images/03_spindle3_chatter.png) |
+| ![Spindle 3 Chatter](03_spindle3_chatter.png) |
 
 ---
 
@@ -48,7 +48,7 @@ Provides a multi-spindle helicopter view paired with real-time financial modelin
 * **Reactive vs. Predictive Cost Chart:** Clustered column chart updating in real time as cost assumptions change.
 * **Scrap Cost Pareto by Failure Mode:** Quantifies the financial weight of `TOOL_WEAR` (`1,530 CHF`) vs. `SPINDLE_CHATTER` (`595 CHF`).
 
-![Executive Overview and ROI Simulator](images/04_executive_roi_simulator.png)
+![Executive Overview and ROI Simulator](04_executive_roi_simulator.png)
 
 ---
 
